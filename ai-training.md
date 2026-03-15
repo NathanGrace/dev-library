@@ -1,41 +1,37 @@
+
+
+
 # Goals of this Training
 - Give an AI crash course
 - Encourage experimentation
 - replace fear with optimism
 - find out if these clankers can actually help us
 
+
+
 # Core Concepts
 Obviously AI has become a massive thing that exists now and there's many layers to it, but like any abstraction, we don't have to know everything under the hood for us to use it effectively. We all know AI is not a one size fits all solution, so we have to get a feel for what we can and can't do with them. I think these core concepts are what help the most for getting that feel and learning where the edges are.
 1. Models
-	- the clanker itself
 2. Tokens & Context Window
-	- working memory
 3. Reliability (why do they hallucinate?)
-	- statistics and non-determinism
 4. How do we get higher quality outputs?
-	- by giving it better context
 5. Where does AI best fit into the dev workflow?
-	- when verification is cheap
 
-
-## Models
+## Models - the actual clankers.
 over time models have become more of a commodity than you might think. The main things you should be thinking about when choosing a model for any given task is cost, reasoning, speed, and consistency/reliability. Beyond that there's no real reason to have loyalty to any one model because there's so many of them, and new ones are being released all the time.
 
+## Tokens & Context Window - working memory.
+  - information overload results in context rot
 
-
-## Tokens & Context Window
-	- working memory
-	- information overload results in context rot
-## Reliability (why do they hallucinate?)
-	- they are basically just prediction machines, so thinking in terms of statistics is helpful here.
-	- they
+## Reliability (why do they hallucinate?) - statistics and non-determinism.
+  - they are basically just prediction machines, so thinking in terms of statistics is helpful here.
 	- an AI model is basically a system that predicts likely next pieces of text; it can sound confident without being correct.
-## So How Do We Get Quality Outputs?
-	- Existing Training Data, Prompts/Instructions, and Context are what determine the output quality.
 
+## How do we get higher quality outputs? - set them up for success.
+  - Existing Training Data, Prompts/Instructions, and Context are what determine the output quality.
 
-
-
+## Where does AI best fit into the dev workflow? - when verification is cheap.
+  - plan
 
 # Harnesses and Interfaces for day to day use
 tbh, what you choose to use will likely just come down to preferences. Although it sounds funny to admit, I do think that vibes matter when figuring out what works best for you. If you vibe with it, then stick with it. If you don't, it just ends up adding friction and frustration to whatever you're trying to do with it.
@@ -50,10 +46,13 @@ tbh, what you choose to use will likely just come down to preferences. Although 
 - t3.chat
 
 2. IDE features and/or extensions
-   Cursor, windsurf, antigravity, kiro, zed
+Cursor is an example of an "AI first IDE". There are others but cursor seems to be the best of the bunch.
+One editor that's like an inbeteween of AI first and a more traditional IDE is Zed which I'm keeping an eye on.
+Most other editors have added some sort of AI integrations, or you're able to download extensions to get some.
 
-- tab completion
-- ai sidebar
+  - tab completion
+  - ai sidebar/agent panels
+    - these can feel very different depending on the editor and extension you're using
 
 3. CLI tools
 Note: with these, you have to start thinking about permissions
@@ -68,7 +67,6 @@ Note: with these, you have to start thinking about permissions
 - T3 Code
 
 # Added functionalities/capabilities that exist
-
 I find it best to think of these as custom/context specific configuration you can define for the various harnesses and interfaces.
 
 - Agents(sometimes called modes)
