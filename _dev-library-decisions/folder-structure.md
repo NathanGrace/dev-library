@@ -1,5 +1,7 @@
 /dev-library/
   README.md                        # Manifesto
+  /_current/
+  # everything that I'm currently doing so I can pick up where I left off.
   /_inbox/
     effect-ts.md                   # Exploring, not committed yet
   /foundations/
