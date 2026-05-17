@@ -11,6 +11,7 @@ Games to take inspiration from:
 - Paperwork (only for the irony)
 - Under Par Golf Architect
 - Super Battle Golf
+- Librarian: Tidy Up the Arcane Library!
 
 What type of genres am I interested in creating?
 - tower defense
