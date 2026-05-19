@@ -13,6 +13,7 @@ Games to take inspiration from:
 - Super Battle Golf
 - Librarian: Tidy Up the Arcane Library!
 - Aviassembly
+- Chop Chains
 
 What type of genres am I interested in creating?
 - tower defense
