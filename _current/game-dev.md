@@ -17,6 +17,7 @@ Games to take inspiration from:
 - Refarm
 - Digseum
 - Magic Archery
+- Nodebuster
 
 What type of genres am I interested in creating?
 - tower defense
