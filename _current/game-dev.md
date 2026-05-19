@@ -18,6 +18,9 @@ Games to take inspiration from:
 - Digseum
 - Magic Archery
 - Nodebuster
+- A Game About Feeding A Black Hole
+- A Game About Making A Planet
+
 
 What type of genres am I interested in creating?
 - tower defense
