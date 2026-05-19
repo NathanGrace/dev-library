@@ -16,6 +16,7 @@ Games to take inspiration from:
 - Chop Chains
 - Refarm
 - Digseum
+- Magic Archery
 
 What type of genres am I interested in creating?
 - tower defense
