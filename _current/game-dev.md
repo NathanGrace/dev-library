@@ -14,6 +14,7 @@ Games to take inspiration from:
 - Librarian: Tidy Up the Arcane Library!
 - Aviassembly
 - Chop Chains
+- Refarm
 
 What type of genres am I interested in creating?
 - tower defense
