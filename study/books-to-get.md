@@ -33,3 +33,7 @@
 
 ## Observability Engineering
 - https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1098179927?crid=G328H7ODY562&dib=eyJ2IjoiMSJ9.JgWdd_sqYdNxLzjOyO0B0wYxMvAPo_6mpq9cEk490Ry_AcEb99RspGXx5Rml8xsM_YHjT6YHLvsiSR-W-Ua7vDOw3hsFJW9XOK3XwxUByvF_BGEmF5aip1rEsNMH8G0Jt1X4vpSgIhPAU00KBLXe-zYr-OHKgcnDjJfN-joBHVkLK3FxU2FIQB49b_gZzzeA-RfPB7-evizZEdNiqj6bJtHPOWsM-tObDgOR087FeSs.8sHERHzjcvz8bQ87IB_yTPphmgGFaeSHTluLwcctxOs&dib_tag=se&keywords=Observability+Engineering+%E2%80%93+Achieving+Production+Excellence&qid=1774194613&s=books&sprefix=observability+engineering+achieving+production+excellence%2Cstripbooks%2C149&sr=1-2
+
+# The Art of Computer Programming (Series)
+- this is more like an encyclopedia than anything
+- https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043
