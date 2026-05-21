@@ -20,7 +20,7 @@ Games to take inspiration from:
 - Nodebuster
 - A Game About Feeding A Black Hole
 - A Game About Making A Planet
-
+- Trainatic
 
 What type of genres am I interested in creating?
 - tower defense
