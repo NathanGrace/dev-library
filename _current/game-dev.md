@@ -21,6 +21,7 @@ Games to take inspiration from:
 - A Game About Feeding A Black Hole
 - A Game About Making A Planet
 - Trainatic
+- Orbitmine
 
 What type of genres am I interested in creating?
 - tower defense
